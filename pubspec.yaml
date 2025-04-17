@@ -10,8 +10,9 @@ dependencies:
     sdk: flutter
 
 environment:
-  sdk: '>=3.2.1 <4.0.0'
-  flutter: ">=1.17.0"
+  sdk: ">=3.7.2 <=4.0.0"
+  flutter:
+
 
 flutter:
   plugin:
